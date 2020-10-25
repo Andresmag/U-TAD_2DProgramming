@@ -14,5 +14,7 @@ Practices for the subject 2D Programming.
 Every practice is an improvement from the last one so a lot of the code is reused.
 But you should look at it closely because sometimes although it's really similar it has a little change.
 
+To run the code, be sure to **compile it for x86**. Any other way it will fail. 
+
 *In the practice 5, the collision per pixels between the bee and the circle is not working fine but after
 checking the code several times I couldn't find the error.*
