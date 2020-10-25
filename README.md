@@ -23,7 +23,7 @@ You can find more about this library at its creator's [repository](https://githu
   * data (when necessary -all except practice 1-)
   * project
   * src
-* Lib folder outside the practices contains the glfw and litegfx libraries so it must be **included and combined** within the lib folder in **every practice** (I've uploaded it this way not to upload the libraries 7 times)
+* Lib folder outside the practices contains the glfw and litegfx libraries so it must be **included and combined** within the lib folder in **every practice** (I've uploaded it this way not to upload the libraries 7 times). **stb_image.h** is needed from practice 2 onwards (included) and **stb_truetype.h** is needed from practice 3 onwards (included). But it doesn't mind if you add them to practice 1.
 * To run the code, be sure to **compile it for x86**. Any other way it will fail.
 
 *In the practice 5, the per pixels collision between the bee (at the mouse position) and the circle and square is not working fine but after checking the code several times I couldn't find the error.*
